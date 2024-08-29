@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello 💚
 
-<!--
-**mllefox/mllefox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Education
+- Master's Degree 38.04.02 Project Management
+- Diploma of professional retraining "Data analysis in Python and SQl databases"
+- Ongoing data analytics training
 
-Here are some ideas to get you started:
+### Work Experience 
+Implementation of projects from various fields, including the development of methods for introducing modern tools such as artificial intelligence. I am ready to participate in new projects with the opportunity to develop my initial data analytics skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills 
+- English language: Level B2
+- Vietnamese language: Level B1
+- Computer languages: Python, SQL
+  
